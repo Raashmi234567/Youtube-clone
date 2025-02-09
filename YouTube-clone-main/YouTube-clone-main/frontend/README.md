@@ -3,6 +3,7 @@
 A fully functional YouTube clone built using the MERN (MongoDB, Express, React, Node.js) stack. This project mimics core features of YouTube, including video uploads, user authentication, comments, likes, and more.
 
 ## Clone the Repository :
+https://github.com/Raashmi234567/Youtube-clone.git
 
 ## Features :
 
@@ -45,3 +46,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Inspired by YouTube's design and functionality.
 - Built with love and MERN stack technologies.
+
