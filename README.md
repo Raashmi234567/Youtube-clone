@@ -4,7 +4,7 @@ A fully functional YouTube clone built using the MERN (MongoDB, Express, React, 
 
 ## Clone the Repository :
 
-- git clone https://github.com/yogesh-modgekar/YouTube-clone.git
+- https://github.com/Raashmi234567/Youtube-clone.git
 
 ## Features :
 
